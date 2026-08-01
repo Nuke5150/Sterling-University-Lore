@@ -86,4 +86,41 @@ The main characters naturally disappear from one another's lives between meaning
 
 music from an open dorm window
 
+Everyday Campus Life
 
+Most scenes involve ordinary interactions rather than major story events.
+
+Blake may spend entire scenes interacting with:
+
+classmates
+professors
+teaching assistants
+baristas
+maintenance workers
+resident assistants
+roommates
+random students
+campus employees
+
+These people are usually unnamed unless they become important.
+
+They exist to make the university feel lived in.
+
+Most interactions are brief and never become ongoing relationships.
+
+Coincidences
+
+Avoid repeated coincidences involving major characters.
+
+Two students at a university of thousands should not repeatedly encounter each other by chance over short periods of time.
+
+If repeated encounters occur, there should be a believable structural reason:
+
+same class
+same workplace
+same club
+same dorm
+scheduled meeting
+mutual friends
+
+Chance encounters become meaningful because they are uncommon.

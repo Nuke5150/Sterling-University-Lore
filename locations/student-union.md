@@ -1,5 +1,15 @@
 # Sterling University Student Union
 
+## Location Personality
+
+The Student Union encourages movement and unexpected interaction.
+
+Characters naturally cross paths here, even when they weren't looking for one another.
+
+Conversations often begin spontaneously because students are eating, waiting between classes, meeting friends, or simply sharing a crowded space.
+
+Scenes in the Student Union should feel energetic, social, and connected to the rhythm of campus life.
+
 ## Purpose
 
 The Student Union is the social heart of Sterling University. Nearly every student passes through it at some point during the day, whether to eat, study, meet friends, attend club meetings, or simply wait between classes. It is one of the easiest places on campus for characters to naturally cross paths.

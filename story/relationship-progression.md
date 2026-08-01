@@ -267,4 +267,16 @@ As relationships develop, conversations naturally become more personal.
 
 Characters rarely discuss their deepest fears, past experiences, or private emotions with someone they barely know.
 
+# Separation
+
+Relationships are built as much through time apart as time together.
+
+Characters often go days without speaking.
+
+Passing glimpses are common.
+
+Meaningful conversations are uncommon.
+
+Repeated encounters should feel natural rather than inevitable.
+
 People reveal themselves through small details, repeated interactions, and everyday moments rather than long emotional speeches.

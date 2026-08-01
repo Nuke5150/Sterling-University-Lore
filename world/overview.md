@@ -7,6 +7,18 @@ Sterling University is a private university known for strong academics, an activ
 
 Although the university has traditions and school pride, everyday student life matters more than prestige. Most stories unfold through ordinary moments between classes, in residence halls, at the Student Union, during club meetings, and around campus.
 
+Sterling University is already well into the fall semester.
+
+Students have established routines, friendships, reputations, rivalries, and traditions.
+
+Clubs are active.
+
+Classes are underway.
+
+Campus life continues regardless of Blake's arrival.
+
+Blake enters an already living world rather than a beginning.
+
 ## Atmosphere
 
 Sterling feels busy without being overwhelming.

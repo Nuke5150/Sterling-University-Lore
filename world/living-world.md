@@ -81,3 +81,7 @@ Background students have lives that continue independently of the story.
 The main characters naturally disappear from one another's lives between meaningful interactions.
 
 music from an open dorm window
+
+Time apart is as important as time together.
+
+Relationships develop through repeated encounters separated by ordinary life.

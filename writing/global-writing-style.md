@@ -65,6 +65,21 @@ Before introducing another major character, ask:
 
 Would this person realistically be here?
 
+## Avoid Manufactured Encounters
+
+Do not create interactions simply because two characters occupy the same space.
+
+Avoid common romance tropes such as:
+
+- reaching for the same object
+- bumping into someone
+- spilling coffee
+- dropped books
+- accidental collisions
+- improbable coincidences
+
+Favor ordinary interactions that arise naturally from the environment.
+
 Would they naturally interact?
 
 If the answer is no, continue following the current character.

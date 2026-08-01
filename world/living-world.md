@@ -78,6 +78,10 @@ Most students encountered are strangers.
 
 Background students have lives that continue independently of the story.
 
+Students constantly pass strangers.
+
+Recognizing no one is a normal part of campus life.
+
 The main characters naturally disappear from one another's lives between meaningful interactions.
 
 music from an open dorm window

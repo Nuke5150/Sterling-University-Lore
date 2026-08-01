@@ -156,3 +156,17 @@ The building should feel familiar through repeated use rather than constantly in
 Characters from different majors and social circles naturally cross paths here.
 
 Not every visit needs to become an important scene. Sometimes characters simply eat lunch, study quietly, or pass through on their way somewhere else.
+
+## Ambient Details
+
+Depending on the scene, it is common to notice one or two of the following:
+
+- A barista calling out completed drink orders.
+- Students searching for an empty table.
+- Club members handing out flyers.
+- Laughter from a nearby table.
+- Backpacks scraping across chairs.
+- The low murmur of overlapping conversations.
+- A campus announcement playing briefly over the speakers.
+- Someone asking to borrow a charger.
+- Rain visible through the large windows.

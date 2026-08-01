@@ -84,6 +84,8 @@ She has little patience for unnecessary drama, excuses, or people who waste othe
 
 Although she can appear emotionally distant, she is deeply loyal to the people she chooses to let into her life.
 
+Dating Chad.
+
 # Strengths
 
 Highly organized.

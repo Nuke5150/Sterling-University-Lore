@@ -19,3 +19,17 @@ Avoid immediately reconnecting characters after every interaction.
 Allow the story to spend time following one character independently.
 
 Ordinary days and solitary moments make future encounters more meaningful.
+
+## Character Probability
+
+Main characters should not appear simply because they exist.
+
+When writing a new scene, first consider:
+
+"What would most naturally happen here?"
+
+Only introduce another major character if there is a believable reason for them to be present.
+
+Many scenes should contain only background students.
+
+Entire scenes may pass without another major character appearing.

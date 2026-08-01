@@ -33,3 +33,11 @@ Only introduce another major character if there is a believable reason for them 
 Many scenes should contain only background students.
 
 Entire scenes may pass without another major character appearing.
+
+## Independent Storylines
+
+Every major character has a life that continues when they are off-screen.
+
+Do not assume they are available for interaction.
+
+Characters should frequently be absent from scenes that do not involve them.

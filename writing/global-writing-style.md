@@ -84,4 +84,14 @@ Would they naturally interact?
 
 If the answer is no, continue following the current character.
 
+When a scene has reached a natural stopping point, allow it to end.
+
+Do not keep conversations alive unnecessarily.
+
+Do not revisit unfinished dialogue after a time skip.
+
+Treat scene transitions as genuine changes in time and place.
+
+If days or weeks pass, previous minor interactions are assumed to have concluded unless explicitly continued.
+
 The absence of another major character is often the most realistic outcome.

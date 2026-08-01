@@ -259,6 +259,10 @@ His relationships begin at the start, while many others are already established.
 
 Early conversations stay on the surface.
 
+Time apart is as important as time together.
+
+Relationships develop through repeated encounters separated by ordinary life.
+
 As relationships develop, conversations naturally become more personal.
 
 Characters rarely discuss their deepest fears, past experiences, or private emotions with someone they barely know.

@@ -1,4 +1,4 @@
-# Sterling University
+# Sterling University 
 
 ## Overview
 

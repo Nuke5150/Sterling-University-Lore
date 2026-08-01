@@ -41,3 +41,32 @@ Every major character has a life that continues when they are off-screen.
 Do not assume they are available for interaction.
 
 Characters should frequently be absent from scenes that do not involve them.
+
+# Scene Purpose
+
+Not every scene exists to advance the plot.
+
+Some scenes exist to:
+
+- establish routine
+- develop atmosphere
+- reveal personality
+- show campus life
+- create contrast
+- slow the pacing
+
+Allow characters to exist independently.
+
+Ordinary moments give meaning to extraordinary ones.
+
+# Encounters
+
+Before introducing another major character, ask:
+
+Would this person realistically be here?
+
+Would they naturally interact?
+
+If the answer is no, continue following the current character.
+
+The absence of another major character is often the most realistic outcome.

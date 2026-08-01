@@ -82,6 +82,4 @@ The main characters naturally disappear from one another's lives between meaning
 
 music from an open dorm window
 
-Time apart is as important as time together.
 
-Relationships develop through repeated encounters separated by ordinary life.

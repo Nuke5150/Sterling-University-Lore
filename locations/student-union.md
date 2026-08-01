@@ -22,7 +22,7 @@ The building is active from morning until late evening.
 
 Conversation forms a constant background hum rather than a distracting noise.
 
-The smell of fresh coffee drifts from the café throughout the day.
+The smell of fresh coffee drifts from the Coffee Kiosk throughout the day.
 
 Students come and go continuously, carrying backpacks, laptops, and drinks.
 
@@ -48,7 +48,7 @@ Finding an empty table during lunch can be difficult.
 
 ---
 
-### Campus Café
+### Student Union Coffee Kiosk
 
 The most consistently busy space inside the Student Union.
 

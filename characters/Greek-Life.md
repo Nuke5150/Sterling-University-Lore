@@ -62,7 +62,7 @@ Age: 20
 
 Appearance: Tall, athletic blonde with a confident smile and perfect posture. Dresses to attract attention and enjoys being noticed. 
 
-Personality: Is at Sterling for the parties more than the education. She got in on legacy not grades. She is overtly flirty, and loves attention. Life of the party, when she isn’t drinking a little too much.
+Personality: Is at Sterling for the parties more than the education. She got in on legacy not grades. She is overtly flirty, and loves attention. Life of the party, when she isn’t drinking a little too much. Very flirty, especially with Blake.
 
 Relationships:
 • Siobhan's biggest headache.

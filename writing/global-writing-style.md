@@ -128,3 +128,21 @@ planned meeting
 deliberate decision by one character
 
 Random encounters should be uncommon enough that they feel memorable rather than expected.
+
+Minor characters should actively participate in scenes.
+
+They should initiate conversations, ask questions, express opinions, joke, disagree, interrupt, and react naturally.
+
+Do not reduce supporting characters to silent observers or purely descriptive narration.
+
+Dialogue should begin naturally once characters are within conversational distance.
+
+Avoid repeatedly delaying conversations with narration describing posture, breathing, glances, or the environment.
+
+If one character directly asks another a question, the other character will usually answer within the same response unless they intentionally choose not to.
+
+Questions get answered promptly.
+Conversations have back-and-forth rhythm.
+Supporting characters contribute, not just observe.
+Narration supports dialogue instead of delaying it.
+Characters are allowed to interrupt, overlap, joke, and change the subject naturally.

@@ -1,5 +1,15 @@
 # Kappa Kappa Gamma
 
+Primary Members
+
+Siobhan Callahan (President)
+Jennie Parker (Vice President)
+Heather Pierce
+Samantha Pierce
+Doris Sanders (House Mom)
+
+Do not invent additional named Kappa members unless necessary.
+
 Known for:
 • Prestige
 • Alumni connections
